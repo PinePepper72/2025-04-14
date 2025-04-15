@@ -1,5 +1,16 @@
-Over the course of spring break, I dedicated my time to preparing for the CompTIA Network+ certification exam. Rather than taking the week off, I focused on building my foundational knowledge in networking through structured self-study.
+During spring break, I dedicated my time to preparing for the CompTIA Network+ certification exam. Rather than taking the week off, I focused on building my foundational knowledge in networking through structured self-study.
 
-I made measurable progress by completing approximately 14% of the Jason Dion video course, which has proven to be a valuable resource in understanding core networking concepts. In addition to the video series, I explored several Network+ related podcasts available on YouTube and Spotify. These supplementary materials have helped reinforce my learning and provided additional context to the topics covered in the course.
+I made measurable progress by completing approximately 14% of the Jason Dion video course, which has proven to be a valuable resource for understanding core networking concepts. In addition to the video series, I explored several Network+-related podcasts on YouTube and Spotify. These supplementary materials have helped reinforce my learning and provided additional context to the topics covered in the course.
 
-As part of my preparation, I also took my first practice assessment. While my initial score was 43%, I view it as a baseline to build from rather than a setback. The experience gave me a clearer picture of the areas where I need improvement, and I remain confident that with continued study and practice, I will be well-prepared to successfully pass the exam.
+As part of my preparation, I also took my first practice assessment. While my initial score was 43%, it is a baseline to build from rather than a setback. The experience gave me a clearer picture of the areas where I need improvement. I remain confident that I will be well-prepared to pass the exam with continued study and practice.
+
+Day 1 back from Spring break has its unique challenges. The vent under which I sit is so cold that it makes focusing difficult. Despite the cold, the GOAL 750 remains. I am glad we focused on Layers 1 and 2—Physical and Data Link. What is becoming more clear are terms like:
+Physical - bits 1s and 0s. Wired - Wireless - Antenna 
+Wired—Coax—Twisted Pair—Fiber—I need to understand the connection points better for fiber. The ST-SC SL and MTR make no sense to me—absolutely none!
+As I understand their role in attenuation, the role of media converters, amplifiers, and repeaters becomes clearer. All these tools assist with signal loss.
+
+Understanding the transmitter and receiver is becoming clearer. Their communication method must be considered for data to pass through the layers. Someone has to talk, and someone has to listen. I appreciate that this industry is about improving processes. I know Mr. Darrell is joking when he talks about aliens and dope smokers coming up with these new advances; however, seeing the improvements from polling to token to arcnet to  chaos theory is fascinating.  All these changes are to get more data faster.
+
+I get fuzzy when we started talking about the Fiber Ethernet Standards. That is super confusing, and I need to watch a few more videos on this subject to better understand.
+
+Overall, it was a good day. I was permitted to move my seat. I will explore that option tomorrow to see if that will allow me to focus better. 
